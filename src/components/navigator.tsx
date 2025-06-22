@@ -3,8 +3,33 @@ import '../styles/navigator.css';
 
 function Navigator() {
   return (
-    <div className="Navigator">
-
+    <div className="navigator">
+      <ul>
+        <li>
+          <a class="nav-link" href="#home">
+            Home
+            </a></li>
+        <li>
+          <a class="nav-link" href="#me">
+            About Me
+            </a></li>
+        <li>
+          <a class="nav-link" href="#education">
+            Education
+            </a></li>
+        <li>
+          <a class="nav-link" href="#projects">
+            Projects
+            </a></li>
+        <li>
+          <a class = "nav-link" href="#experience">
+            Experience
+            </a></li>
+        <li>
+          <a class="nav-link" href="#contact">
+            Contact
+            </a></li>
+      </ul>
     </div>
   )
 }

@@ -1,5 +1,7 @@
-body {
+.portfolio {
   background-color: rgb(28, 26, 36);
-  text-align: center;
   color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

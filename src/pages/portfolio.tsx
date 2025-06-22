@@ -10,7 +10,7 @@ import Contact from '../components/contact.tsx';
 
 function Portfolio() {
   return (
-    <div className="Portfolio">
+    <div className="portfolio">
       <Navigator />
       <Home />
       <Me />
