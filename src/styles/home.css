@@ -1,3 +1,28 @@
 .home {
-  
+  text-align: center;
+  height: 900px;
+  width: 100%;
+  background-color: white;
+  color: black;
+  flex-direction: row;
+
+  .text-section {
+    animation: fade-in 3s;
+    padding: 225px;
+    h1 {
+      font-weight: bold;
+    }
+    h2 {
+      font-weight: normal;
+    }
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 100;
+  }
 }
