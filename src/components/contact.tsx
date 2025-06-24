@@ -15,7 +15,7 @@ function Contact() {
   }
 
   const copyToClipboard = (text: string) => {
-    const result = navigator.clipboard.writeText(text);
+    navigator.clipboard.writeText(text);
     setStatus("Copied!")
     setTimeout(() => {
       setStatus("danqanh008@gmail.com")
