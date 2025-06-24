@@ -5,10 +5,11 @@ import github_icon from '../assets/github_icon.png';
 
 
 function Contact() {
+  const myEmail = "danqanh008@gmail.com"
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
-  const [status, setStatus] = useState("danqanh008@gmail.com")
+  const [status, setStatus] = useState(myEmail)
 
   const sendEmail = (event) => {
     // send email
@@ -18,7 +19,7 @@ function Contact() {
     navigator.clipboard.writeText(text);
     setStatus("Copied!")
     setTimeout(() => {
-      setStatus("danqanh008@gmail.com")
+      setStatus(myEmail)
     }, 2000);
   }
 
@@ -53,7 +54,7 @@ function Contact() {
         </button>
       </form>
       <div className="info">
-        <div className="email" onClick={() => {copyToClipboard("danqanh008@gmail.com")}}>
+        <div className="email" onClick={() => {copyToClipboard(myEmail)}}>
           {status}
         </div>
         <div className="links">
