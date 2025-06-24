@@ -1,0 +1,58 @@
+[
+  {
+    "skill": "React",
+    "icon_name": "react_icon"
+  },
+  {
+    "skill": "React Native",
+    "icon_name": "react_native_icon"
+  },
+  {
+    "skill": "Javascript",
+    "icon_name": "javascript_icon"
+  },
+  {
+    "skill": "HTML",
+    "icon_name": "html_icon"
+  },
+  {
+    "skill": "CSS",
+    "icon_name": "css_icon"
+  },
+  {
+    "skill": "Figma",
+    "icon_name": "figma_icon"
+  },
+  {
+    "skill": "Jira",
+    "icon_name": "jira_icon"
+  },
+  {
+    "skill": "Agile",
+    "icon_name": "agile_icon"
+  },
+  {
+    "skill": "Java",
+    "icon_name": "java_icon"
+  },
+  {
+    "skill": "UI/UX",
+    "icon_name": "ui_ux_icon"
+  },
+  {
+    "skill": "AWS Cloud",
+    "icon_name": "aws_cloud_icon"
+  },
+  {
+    "skill": "Python",
+    "icon_name": "python_icon"
+  },
+  {
+    "skill": "MySQL",
+    "icon_name": "my_sql_icon"
+  },
+  {
+    "skill": "C++",
+    "icon_name": "c_plus_plus_icon"
+  }
+]

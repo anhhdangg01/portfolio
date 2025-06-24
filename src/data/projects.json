@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Vision Bucket",
+    "role": [
+      "Full-Stack Engineer",
+      "UI/UX Designer"
+    ],
+    "link": "https://github.com/stars/anhhdangg01/lists/vision-bucket",
+    "description": [
+      "Engineered front-end, back-end, and middleware architectures in React for users to favorite and organize their favorite movies from the iMDB database",
+      "Designed mockups of different pages on the website in Figma",
+      "Communicated with 2 team members on GitHub repository over the span of 3 months in Agile development cycles"
+    ]
+  },
+  {
+    "name": "Game on",
+    "role": [
+      "Front-end Engineer",
+      "UI/UX Designer"
+    ],
+    "link": "https://github.com/anhhdangg01/game_on/tree/main",
+    "description": [
+      "Engineered front-end architecture in React Native for users to create an account, edit their profile, post in the forums to find fellow players, and message other players",
+      "Designed mockups and prototypes of different pages on the website in Figma",
+      "Communicated with 4 team members on GitHub repository over the span of 3 months in Agile development cycles"
+    ]
+  },
+  {
+    "name": "Search Engine",
+    "role": [
+      "Programmer"
+    ],
+    "link": "https://github.com/anhhdangg01/search_engine",
+    "description": [
+      "Programmed search engine in C++ that outputs results from the UCI directory",
+      "Communicated with 3 team members on GitHub repository over the span of 3 months in Agile development cycles"
+    ]
+  },
+  {
+    "name": "MySQL Python Program",
+    "role": [
+      "Programmer"
+    ],
+    "link": "https://github.com/anhhdangg01/MySQL_python_program",
+    "description": [
+      "Programmed Python program that outputs results from a MySQL database",
+      "Communicated with 3 team members on GitHub repository"
+    ]
+  }
+]

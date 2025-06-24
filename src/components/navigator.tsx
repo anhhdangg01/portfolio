@@ -18,8 +18,16 @@ function Navigator() {
             Education
             </a></li>
         <li>
+          <a class="nav-link" href="#skills">
+            Skills
+            </a></li>
+        <li>
           <a class="nav-link" href="#projects">
             Projects
+            </a></li>
+        <li>
+          <a class="nav-link" href="#games">
+            Games
             </a></li>
         <li>
           <a class = "nav-link" href="#experience">

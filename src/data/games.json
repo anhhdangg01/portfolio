@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Celestial Clash",
+    "role": [
+      "UI/UX Designer",
+      "Artist"
+    ],
+    "description": [
+      "Designed UI/UX for a space/celestial-themed multi-player fighting game centering around Zodiac combos",
+      "Communicated with 8 team members in the first 3 months, then 11 in the remaining months using Agile development cycles",
+      "Designed character art pose present in the lobby"
+    ]
+  },
+  {
+    "name": "Magician's Umbrella",
+    "role": [
+      "Concept Artist",
+      "UI/UX Designer"
+    ],
+    "description": [
+      "Created concept art and helped finalize design of main character",
+      "Created UI/UX icons for abilities",
+      "Communicated with 11 team members on art progress and feedback in 4 months of Agile development cycles"
+    ]
+  },
+  {
+    "name": "Tomo no Taiko",
+    "role": [
+      "Artist"
+    ],
+    "description": [
+      "Designed and finalized 2nd main character and taiko drum asset",
+      "Communicated with 10 team members on art progress and feedback in 4 months of Agile development cycles"
+    ]
+  },
+  {
+    "name": "Last Night in Arcadia",
+    "role": [
+      "UI/UX Designer",
+      "Concept Artist"
+    ],
+    "description": [
+      "Designed several concept art for 1 character and UI/UX",
+      "Communicated with 9 team members on art progress and feedback in 4 months of Agile development cycles"
+    ]
+  }
+]

@@ -1,8 +1,9 @@
 .portfolio {
-  background-color: rgb(28, 26, 36);
-  color: white;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  overflow-x: hidden;
+  .pages {
+    background-color: rgb(28, 26, 36);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }

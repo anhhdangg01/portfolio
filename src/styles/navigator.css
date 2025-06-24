@@ -3,6 +3,13 @@
   padding-left: 50%;
   padding-right: 50%;
   background-color: rgb(28, 26, 36);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: hidden;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
 
   a {
     float: left;
