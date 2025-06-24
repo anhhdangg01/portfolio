@@ -5,7 +5,7 @@
   },
   {
     "skill": "React Native",
-    "icon_name": "react_native_icon"
+    "icon_name": "react_icon"
   },
   {
     "skill": "Javascript",
@@ -53,6 +53,6 @@
   },
   {
     "skill": "C++",
-    "icon_name": "c_plus_plus_icon"
+    "icon_name": "c++_icon"
   }
 ]
