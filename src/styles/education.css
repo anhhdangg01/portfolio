@@ -1,3 +1,26 @@
 .education {
+  height: 950px;
+  width: 100%;
+  background-color: rgb(255, 255, 233);
+  text-align: center;
   
+  .text-section {
+    color: black;
+
+    h2 {
+
+    }
+    h3 {
+
+    }
+    p {
+      font-weight: bold;
+    }
+  }
+
+  h1 {
+    color: black;
+    font-size: 70px;
+    padding-bottom: 50px;
+  }
 }
