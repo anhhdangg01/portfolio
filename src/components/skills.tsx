@@ -17,7 +17,6 @@ import skills_data from '../data/skills.json';
 const skills = skills_data.skills;
 
 function Skills() {
-
   return (
     <div className="skills">
       <h2>Skills</h2>

@@ -8,7 +8,7 @@
 
   .text-section {
     animation: fade-in 3s;
-    padding: 50px;
+    padding-top: 50px;
     h1 {
       font-weight: bold;
       font-size: 70px;

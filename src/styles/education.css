@@ -3,6 +3,12 @@
   width: 100%;
   background-color: rgb(255, 255, 233);
   text-align: center;
+
+  h1 {
+    color: black;
+    font-size: 70px;
+    padding-bottom: 50px;
+  }
   
   .text-section {
     color: black;
@@ -16,11 +22,5 @@
     p {
       font-weight: bold;
     }
-  }
-
-  h1 {
-    color: black;
-    font-size: 70px;
-    padding-bottom: 50px;
   }
 }
