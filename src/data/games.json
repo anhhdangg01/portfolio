@@ -1,47 +1,57 @@
-[
-  {
-    "name": "Celestial Clash",
-    "role": [
-      "UI/UX Designer",
-      "Artist"
-    ],
-    "description": [
-      "Designed UI/UX for a space/celestial-themed multi-player fighting game centering around Zodiac combos",
-      "Communicated with 8 team members in the first 3 months, then 11 in the remaining months using Agile development cycles",
-      "Designed character art pose present in the lobby"
-    ]
-  },
-  {
-    "name": "Magician's Umbrella",
-    "role": [
-      "Concept Artist",
-      "UI/UX Designer"
-    ],
-    "description": [
-      "Created concept art and helped finalize design of main character",
-      "Created UI/UX icons for abilities",
-      "Communicated with 11 team members on art progress and feedback in 4 months of Agile development cycles"
-    ]
-  },
-  {
-    "name": "Tomo no Taiko",
-    "role": [
-      "Artist"
-    ],
-    "description": [
-      "Designed and finalized 2nd main character and taiko drum asset",
-      "Communicated with 10 team members on art progress and feedback in 4 months of Agile development cycles"
-    ]
-  },
-  {
-    "name": "Last Night in Arcadia",
-    "role": [
-      "UI/UX Designer",
-      "Concept Artist"
-    ],
-    "description": [
-      "Designed several concept art for 1 character and UI/UX",
-      "Communicated with 9 team members on art progress and feedback in 4 months of Agile development cycles"
-    ]
-  }
-]
+{
+  "games": [
+    {
+      "name": "Celestial Clash",
+      "role": [
+        "UI/UX Designer",
+        "Artist"
+      ],
+      "path": "../assets/celestial_clash_icon.png",
+      "link": "https://dtrmgiraffe.itch.io/celestial-clash",
+      "description": [
+        "Designed UI/UX for a space/celestial-themed multi-player fighting game centering around Zodiac combos",
+        "Communicated with 8 team members in the first 3 months, then 11 in the remaining months using Agile development cycles",
+        "Designed character art pose present in the lobby"
+      ]
+    },
+    {
+      "name": "Magician's Umbrella",
+      "role": [
+        "Concept Artist",
+        "UI/UX Designer"
+      ],
+      "path": "../assets/magicians_umbrella_icon.png",
+      "link": "https://saffrona.itch.io/magicians-umbrella",
+      "description": [
+        "Created concept art and helped finalize design of main character",
+        "Created UI/UX icons for abilities",
+        "Communicated with 11 team members on art progress and feedback in 4 months of Agile development cycles"
+      ]
+    },
+    {
+      "name": "Tomo no Taiko",
+      "role": [
+        "Artist"
+      ],
+      "path": "../assets/tomo_no_taiko_icon.png",
+      "link": "https://geminibllllue.itch.io/tnt-nh",
+      "description": [
+        "Designed and finalized 2nd main character and taiko drum asset",
+        "Communicated with 10 team members on art progress and feedback in 4 months of Agile development cycles"
+      ]
+    },
+    {
+      "name": "Last Night in Arcadia",
+      "role": [
+        "UI/UX Designer",
+        "Concept Artist"
+      ],
+      "path": "../assets/last_night_in_arcadia_icon.png",
+      "link": "https://mistyl.itch.io/last-night-in-arcadia",
+      "description": [
+        "Designed several concept art for 1 character and UI/UX",
+        "Communicated with 9 team members on art progress and feedback in 4 months of Agile development cycles"
+      ]
+    }
+  ]
+}

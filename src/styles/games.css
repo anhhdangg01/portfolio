@@ -1,3 +1,27 @@
 .games {
-  
+  h1 {
+    font-size: 70px;
+  }
+
+  .game {
+    img {
+
+    }
+
+    h2 {
+
+    }
+
+    .info {
+      .roles {
+
+      }
+
+      ul {
+        li {
+
+        }
+      }
+    }
+  }
 }
