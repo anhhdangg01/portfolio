@@ -1,3 +1,35 @@
-.experience {
-  
+.experiences {
+  h1 {
+    font-size: 70px;
+  }
+
+  .experience {
+    a {
+      text-decoration: none;
+      font-weight: bold;
+      white-space: nowrap;
+      
+      img {
+
+      }
+
+      h2 {
+        color: white;
+      }
+    }
+    a:hover {
+      text-decoration: underline;
+      text-underline-offset: 16px;
+      text-decoration-thickness: 3px;
+    }
+
+
+    .info {
+      ul {
+        li {
+
+        }
+      }
+    }
+  }
 }
