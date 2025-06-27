@@ -11,9 +11,12 @@ function Games() {
       {games.map((game) => {
         return(
           <div className="game">
-            {/* <img src={require(game.path)} /> */}
-            <img src={require('../assets/celestial_clash_icon.png')}></img>
-            <h2>{game.name}</h2>
+            <a href={game.link}>
+              {/* <img src={require(game.path)} /> */}
+              <img src={require('../assets/celestial_clash_icon.png')}></img>
+              <h2>{game.name}</h2>
+            </a>
+            
             <div className="info">
               <div className="roles">
                 {game.role.map((r) => {

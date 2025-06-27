@@ -4,13 +4,25 @@
   }
 
   .game {
-    img {
+    a {
+      text-decoration: none;
+      font-weight: bold;
+      white-space: nowrap;
+      
+      img {
 
+      }
+
+      h2 {
+        color: white;
+      }
+    }
+    a:hover {
+      text-decoration: underline;
+      text-underline-offset: 16px;
+      text-decoration-thickness: 3px;
     }
 
-    h2 {
-
-    }
 
     .info {
       .roles {
